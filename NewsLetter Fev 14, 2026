@@ -13,19 +13,18 @@
             background-color: #ffffff;
             margin: 0;
             padding: 0;
-            text-align: left; /* Alinhamento fixo à esquerda */
+            text-align: left;
             -webkit-font-smoothing: antialiased;
         }
         .container {
             max-width: 600px;
             margin: 0 auto;
-            padding: 30px 15px; /* Padding ajustado para melhor respiro no celular */
+            padding: 30px 15px;
         }
         p { margin-top: 0; margin-bottom: 24px; text-align: left; }
         h2 { font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; }
         a { color: #2563eb; text-decoration: underline; }
         
-        /* Nova classe de Indentação Limpa (Substitui as listas e hífens) */
         .indent-block {
             padding-left: 16px;
             margin-bottom: 24px;
@@ -45,7 +44,16 @@
             font-style: italic; color: #4b5563; text-align: left;
         }
         img { max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); display: block; }
+        
         .footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid #eaeaea; font-size: 14px; color: #4b5563; text-align: left; }
+        .logo-rodape {
+            max-width: 130px; /* Tamanho discreto para o rodapé */
+            height: auto;
+            margin-bottom: 16px;
+            display: block;
+            box-shadow: none; /* Garante que a logo não tenha sombra igual ao GIF */
+            border-radius: 0;
+        }
     </style>
 </head>
 <body>
@@ -163,6 +171,8 @@
         <p>Até a próxima,</p>
 
         <div class="footer">
+            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab" class="logo-rodape">
+            
             <p><strong>Marcelo Kelbert.</strong> Diretor @ Widelab <br>
             <a href="https://www.linkedin.com/in/marcelo-kelbert/" target="_blank">Conecte-se no LinkedIn</a> | <a href="https://linktr.ee/widelab" target="_blank">Conheça a Widelab</a></p>
         </div>
