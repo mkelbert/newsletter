@@ -19,8 +19,8 @@
             <div style="margin-bottom: 16px;">🚨 <strong>O Dedo-Duro:</strong> A tela do Consistem que mostra exatamente onde sua operação travou.</div>
             <div style="margin-bottom: 16px;">🎓 <strong>Minuto Tech:</strong> Entenda por que Agentes de IA precisam de Robôs (RPA) para funcionar na vida real.</div>
             <div style="margin-bottom: 16px;">🏛️ <strong>Alerta Fiscal:</strong> A Reforma Tributária 2026 vai travar seu ERP se o cadastro estiver sujo.</div>
-            <div style="margin-bottom: 16px;">🤖 <strong>A Nova Realidade:</strong> A escassez de mão de obra global força a automação como sobrevivência, não luxo.</div>
             <div style="margin-bottom: 16px;">💸 <strong>O Custo Invisível:</strong> Por que digitar dados manualmente queima R$ 60k/ano (e não é mais opção).</div>
+            <div style="margin-bottom: 16px;">💡 <strong>Inovação na Prática:</strong> Veja no vídeo o robô operando o Consistem sozinho e zerando a fila.</div>
         </div>
 
         <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
@@ -110,7 +110,9 @@
         <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a;">👋 Quem escreve</h2>
         
         <p style="margin-top: 0; margin-bottom: 24px; text-align: left;"><strong>Marcelo Kelbert</strong> <br> Especialista em Processos e Automação no ecossistema Consistem.</p>
-        
+
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+
         <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a;">🎯 O Próximo Passo</h2>
         
         <p style="margin-top: 0; margin-bottom: 24px; text-align: left;">A sua coluna de "Notas em Digitação" está cheia? Ou você sente que sua equipe gasta tempo demais "alimentando" o sistema?</p>
