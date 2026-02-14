@@ -5,124 +5,117 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>O Lado B do ERP</title>
 </head>
-<body style="margin: 0; padding: 0; background-color: #ffffff;">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left;">
-        <tr>
-            <td align="left" style="padding: 30px 1px;">
-                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; text-align: left;">
-                    <tr>
-                        <td style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.6; color: #1a1a1a; padding: 0 8px;">
-                            
-                            <div style="font-size: 13px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 32px; border-bottom: 1px solid #eaeaea; padding-bottom: 16px;">
-                                <strong style="color: #1a1a1a;">News Marcelo Kelbert para Mercado Consistem</strong> | O Lado B do ERP: Estratégia, Processos e Tecnologia  Leitura: 4 minutos 
-                            </div>
+<body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.6; color: #1a1a1a; background-color: #ffffff; margin: 0; padding: 0; text-align: left; -webkit-font-smoothing: antialiased;">
+    
+    <div style="max-width: 600px; margin: 0 auto; padding: 30px 0px; text-align: left;">
+        
+        <div style="font-size: 13px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 32px; border-bottom: 1px solid #eaeaea; padding-bottom: 16px; text-align: left; padding-left: 4px; padding-right: 4px;">
+            <strong style="color: #1a1a1a;">News Marcelo Kelbert para Mercado Consistem</strong> | O Lado B do ERP: Estratégia, Processos e Tecnologia  Leitura: 4 minutos
+        </div>
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">⚡ Resumo Executivo [cite: 2]</h2>
-                            
-                            <div style="padding-left: 16px; margin-bottom: 24px;">
-                                <div style="margin-bottom: 16px;">🚨 <strong>O Dedo-Duro:</strong> A tela do Consistem que mostra exatamente onde sua operação travou. [cite: 4]</div>
-                                <div style="margin-bottom: 16px;">🎓 <strong>Minuto Tech:</strong> Entenda por que Agentes de IA precisam de Robôs (RPA) para funcionar na vida real. [cite: 5]</div>
-                                <div style="margin-bottom: 16px;">🏛️ <strong>Alerta Fiscal:</strong> A Reforma Tributária 2026 vai travar seu ERP se o cadastro estiver sujo. [cite: 6, 7]</div>
-                                <div style="margin-bottom: 16px;">💸 <strong>O Custo Invisível:</strong> Por que digitar dados manualmente queima R$ 60k/ano (e não é mais opção). [cite: 9]</div>
-                                <div style="margin-bottom: 16px;">💡 <strong>Inovação na Prática:</strong> Veja no vídeo o robô operando o Consistem sozinho e zerando a fila. [cite: 35]</div>
-                            </div>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">⚡ Resumo Executivo</h2>
+        
+        <div style="padding-left: 12px; padding-right: 4px; margin-bottom: 24px; text-align: left;">
+            <div style="margin-bottom: 16px;">🚨 <strong>O Dedo-Duro:</strong> A tela do Consistem que mostra exatamente onde sua operação travou.</div>
+            <div style="margin-bottom: 16px;">🎓 <strong>Minuto Tech:</strong> Entenda por que Agentes de IA precisam de Robôs (RPA) para funcionar na vida real.</div>
+            <div style="margin-bottom: 16px;">🏛️ <strong>Alerta Fiscal:</strong> A Reforma Tributária 2026 vai travar seu ERP se o cadastro estiver sujo.</div>
+            <div style="margin-bottom: 16px;">💸 <strong>O Custo Invisível:</strong> Por que digitar dados manualmente queima R$ 60k/ano (e não é mais opção).</div>
+            <div style="margin-bottom: 16px;">💡 <strong>Inovação na Prática:</strong> Veja no vídeo o robô operando o Consistem sozinho e zerando a fila.</div>
+        </div>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">📉 O Deep Dive: A Crise da "Cadeira Vazia" [cite: 10]</h2>
-                            
-                            <p style="margin-bottom: 24px;">Nas últimas semanas, um dado alarmante do mercado americano (que sempre antecipa o nosso) chamou atenção: <strong><a href="https://www.roboticstomorrow.com/article/2026/01/predictions-for-2026-whats-next-for-robotics/25968" target="_blank" style="color: #2563eb; text-decoration: underline;">+1 Milhão de vagas abertas na manufatura por falta de gente qualificada</a>.</strong> Não é apenas "dificuldade de contratar". É um apagão de mão de obra operacional. [cite: 11, 12]</p>
-                            
-                            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/VagasAbertas-1.png" alt="Crise da Cadeira Vazia" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">📉 O Deep Dive: A Crise da "Cadeira Vazia"</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Nas últimas semanas, um dado alarmante do mercado americano (que sempre antecipa o nosso) chamou atenção: <strong><a href="https://www.roboticstomorrow.com/article/2026/01/predictions-for-2026-whats-next-for-robotics/25968" target="_blank" style="color: #2563eb; text-decoration: underline;">+1 Milhão de vagas abertas na manufatura por falta de gente qualificada</a>.</strong> Não é apenas "dificuldade de contratar". É um apagão de mão de obra operacional.</p>
+        
+        <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/VagasAbertas-1.png" alt="Crise da Cadeira Vazia" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
 
-                            <p style="margin-bottom: 24px;">A Geração Z não quer trabalhos repetitivos. Eles preferem trabalhar <em>com</em> robôs do que <em>serem</em> os robôs. [cite: 13]</p>
-                            
-                            <blockquote style="border-left: 4px solid #e5e7eb; padding-left: 16px; margin: 0 0 24px 0; font-style: italic; color: #4b5563;">
-                                <strong style="color: #1a1a1a;">A Conclusão Dura:</strong> Se a sua estratégia para 2026 depende de contratar mais assistentes para digitar notas, lançar pedidos ou conferir planilhas, você tem um problema de continuidade de negócio. [cite: 14]
-                            </blockquote>
-                            
-                            <p style="margin-bottom: 24px;">A automação deixou de ser sobre cortar custos e será sobre <strong>conseguir operar</strong>. Quem não automatizar o back-office, vai parar a fábrica por falta de quem opere o sistema. [cite: 15, 16]</p>
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">A Geração Z não quer trabalhos repetitivos. Eles preferem trabalhar <em>com</em> robôs do que <em>serem</em> os robôs.</p>
+        
+        <blockquote style="border-left: 4px solid #e5e7eb; padding-left: 12px; margin-left: 4px; margin-right: 4px; font-style: italic; color: #4b5563; text-align: left; margin-bottom: 24px;">
+            <strong style="color: #1a1a1a;">A Conclusão Dura:</strong> Se a sua estratégia para 2026 depende de contratar mais assistentes para digitar notas, lançar pedidos ou conferir planilhas, você tem um problema de continuidade de negócio.
+        </blockquote>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">A automação deixou de ser sobre cortar custos e será sobre <strong>conseguir operar</strong>. Quem não automatizar o back-office, vai parar a fábrica por falta de quem opere o sistema.</p>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">🎓 Minuto Tech: Agentes vs. RPA (Cérebro e Mãos) [cite: 17]</h2>
-                            
-                            <p style="margin-bottom: 24px;">Muita gente confunde, mas a diferença é dinheiro no bolso. [cite: 18]</p>
-                            <p style="margin-bottom: 24px;">O mercado fala muito de Agentes de IA (o Cérebro que toma decisões). Mas <strong>um cérebro sem mãos não faz nada</strong>. [cite: 19, 20]</p>
-                            
-                            <div style="padding-left: 16px; margin-bottom: 24px;">
-                                <div style="margin-bottom: 16px;">🧠 <strong>Agente (IA):</strong> Lê o e-mail do cliente, entende que ele está bravo e decide dar um desconto. [cite: 22]</div>
-                                <div style="margin-bottom: 16px;">🖐️ <strong>RPA (Robô):</strong> É a "mão" que entra no Consistem, clica nos menus, altera o pedido e salva. [cite: 23]</div>
-                            </div>
-                            
-                            <p style="margin-bottom: 24px;"><strong>O Pulo do Gato:</strong> A maioria das IAs modernas não consegue "clicar" em algumas telas do seu ERP. Elas precisam do RPA. A IA decide, o Robô executa. [cite: 24, 25]</p>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">🎓 Minuto Tech: Agentes vs. RPA (Cérebro e Mãos)</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Muita gente confunde, mas a diferença é dinheiro no bolso.</p>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">O mercado fala muito de Agentes de IA (o Cérebro que toma decisões). Mas <strong>um cérebro sem mãos não faz nada</strong>.</p>
+        
+        <div style="padding-left: 12px; padding-right: 4px; margin-bottom: 24px; text-align: left;">
+            <div style="margin-bottom: 16px;">🧠 <strong>Agente (IA):</strong> Lê o e-mail do cliente, entende que ele está bravo e decide dar um desconto.</div>
+            <div style="margin-bottom: 16px;">🖐️ <strong>RPA (Robô):</strong> É a "mão" que entra no Consistem, clica nos menus, altera o pedido e salva.</div>
+        </div>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;"><strong>O Pulo do Gato:</strong> A maioria das IAs modernas não consegue "clicar" em algumas telas do seu ERP. Elas precisam do RPA. A IA decide, o Robô executa.</p>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">🔎 Radar Consistem: O Dedo-Duro do Processo [cite: 26]</h2>
-                            
-                            <p style="margin-bottom: 24px;">Duvida que tem gargalo manual na sua empresa agora? O próprio sistema mostra. [cite: 27]</p>
-                            <p style="margin-bottom: 24px;">Na atualização do programa <a href="https://ajuda.consistem.com.br/release-notes/periodicos/consistem-erp-7-6/76063-03-02-2026" target="_blank" style="color: #2563eb; text-decoration: underline;">CCERN100 (Monitor de Recebimento)</a>, a Consistem criou uma separação visual nas colunas: [cite: 28]</p>
-                            
-                            <div style="padding-left: 16px; margin-bottom: 24px;">
-                                <div style="margin-bottom: 16px;">Notas Lançadas (✅ Processo Feito) [cite: 29]</div>
-                                <div style="margin-bottom: 16px;"><strong>Notas em Digitação (🚨 Gargalo Ativo)</strong> [cite: 30]</div>
-                            </div>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">🔎 Radar Consistem: O Dedo-Duro do Processo</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Duvida que tem gargalo manual na sua empresa agora? O próprio sistema mostra.</p>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Na atualização do programa <a href="https://ajuda.consistem.com.br/release-notes/periodicos/consistem-erp-7-6/76063-03-02-2026" target="_blank" style="color: #2563eb; text-decoration: underline;">CCERN100 (Monitor de Recebimento)</a>, a Consistem criou uma separação visual nas colunas:</p>
+        
+        <div style="padding-left: 12px; padding-right: 4px; margin-bottom: 24px; text-align: left;">
+            <div style="margin-bottom: 16px;">Notas Lançadas (✅ Processo Feito)</div>
+            <div style="margin-bottom: 16px;"><strong>Notas em Digitação (🚨 Gargalo Ativo)</strong></div>
+        </div>
 
-                            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/Fila-1.png" alt="O Gargalo no ERP" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
-                            
-                            <blockquote style="border-left: 4px solid #e5e7eb; padding-left: 16px; margin: 0 0 24px 0; font-style: italic; color: #4b5563;">
-                                <strong style="color: #1a1a1a;">O Teste do Diretor:</strong> Peça um print do CCERN100 agora. Se a coluna "Em Digitação" estiver cheia, você não tem um problema de software. Você tem matéria-prima parada esperando burocracia, enquanto a fábrica precisa produzir. [cite: 31, 32, 33]
-                            </blockquote>
-                            
-                            <p style="margin-bottom: 24px;"><em>(Isso reflete o conceito de <a href="https://www.riministreet.com/press-releases/global-study-finds-most-sap-customers-favor-multi-vendor-composable-erp-for-faster-innovation/" target="_blank" style="color: #2563eb; text-decoration: underline;">"Composable ERP"</a>: o Consistem é o guardião, mas precisa de satélites ágeis para operar). [cite: 34]</em></p>
+        <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/Fila-1.png" alt="O Gargalo no ERP" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
+        
+        <blockquote style="border-left: 4px solid #e5e7eb; padding-left: 12px; margin-left: 4px; margin-right: 4px; font-style: italic; color: #4b5563; text-align: left; margin-bottom: 24px;">
+            <strong style="color: #1a1a1a;">O Teste do Diretor:</strong> Peça um print do CCERN100 agora. Se a coluna "Em Digitação" estiver cheia, você não tem um problema de software. Você tem matéria-prima parada esperando burocracia, enquanto a fábrica precisa produzir.
+        </blockquote>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">💡 Inovação na Prática: Zerando a Fila [cite: 35]</h2>
-                            
-                            <p style="margin-bottom: 24px; font-style: italic;">"Marcelo, não tenho gente para limpar essa fila do CCERN100. E sinceramente? Não quero queimar R$60k/ano para alguém copiar e colar XML." [cite: 36]</p>
-                            <p style="margin-bottom: 24px;">É aqui que entra a <strong>Automação Inteligente</strong>. O ERP mostra o buraco, mas não o tapa sozinho. [cite: 37]</p>
-                            <p style="margin-bottom: 24px;">Desenvolvemos um robô (“Agente de Entrada") que monitora, valida e lança no Consistem. [cite: 38]</p>
-                            <p style="margin-bottom: 12px;">👇 O resultado visual: (Imagine o cursor voando na tela. É isso que acontece). [cite: 39]</p>
-                            
-                            <img src="https://email-editor-production.s3.amazonaws.com/images/927570/Robo240.gif" alt="Robô operando o Consistem" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
-                            
-                            <p style="margin-bottom: 24px;"><strong>Tira-Teima:</strong> Acha que R$ 60k é exagero? Criei uma Calculadora de Custo de Atividade. Coloque o salário da sua equipe e veja quanto o "Alt+Tab" custa no final do ano. 👉 <strong><a href="https://widelab-digital.lovable.app/calculadora" target="_blank" style="color: #2563eb; text-decoration: underline;">Simule o custo da sua operação aqui</a>. [cite: 41, 42, 43]</strong></p>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">💡 Inovação na Prática: Zerando a Fila</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px; font-style: italic;">"Marcelo, não tenho gente para limpar essa fila do CCERN100. E sinceramente? Não quero queimar R$60k/ano para alguém copiar e colar XML."</p>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">É aqui que entra a <strong>Automação Inteligente</strong>. O ERP mostra o buraco, mas não o tapa sozinho.</p>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Desenvolvemos um robô (“Agente de Entrada") que monitora, valida e lança no Consistem.</p>
+        
+        <p style="margin-top: 0; margin-bottom: 12px; text-align: left; padding-left: 4px; padding-right: 4px;">👇 O resultado visual:</p>
+        
+        <img src="https://email-editor-production.s3.amazonaws.com/images/927570/Robo240.gif" alt="Robô operando o Consistem" style="width: 100%; max-width: 100%; height: auto; border-radius: 0; margin-bottom: 24px; display: block;">
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;"><strong>Tira-Teima:</strong> <a href="https://widelab-digital.lovable.app/calculadora" target="_blank" style="color: #2563eb; text-decoration: underline;">Simule o custo da sua operação aqui</a>.</p>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">🌐 Giro de Mercado [cite: 44]</h2>
-                            
-                            <div style="padding-left: 16px; margin-bottom: 24px;">
-                                <div style="margin-bottom: 24px;">📉 <strong>O Fim do Hype:</strong> O Gartner <a href="https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027" target="_blank" style="color: #2563eb; text-decoration: underline;">alerta que 40% dos projetos de IA vão falhar até 2027</a>. O motivo? Dados sujos e processos ruins. [cite: 46, 47]</div>
-                                <div style="margin-bottom: 24px;">⚡ <strong>Energia é o Limite:</strong> Data centers de IA vão dobrar o consumo de energia até 2027 (<a href="https://www.icis.com/asian-chemical-connections/2026/02/ais-new-bottleneck-power-supply-not-chips/" target="_blank" style="color: #2563eb; text-decoration: underline;">ICIS, Fev/26</a>). Isso vai encarecer a nuvem. [cite: 49, 50]</div>
-                                <div style="margin-bottom: 24px;">🏛️ <strong>Reforma Tributária 2026:</strong> O mercado está focado na alíquota do IBS/CBS, mas o "trava-fábrica" será o Cadastro de Produtos. As novas regras de validação não aceitarão cadastros genéricos. Isso é saneamento de base automatizado. [cite: 51, 52, 55]</div>
-                            </div>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">🌐 Giro de Mercado</h2>
+        
+        <div style="padding-left: 12px; padding-right: 4px; margin-bottom: 24px; text-align: left;">
+            <div style="margin-bottom: 24px;">📉 <strong>O Fim do Hype:</strong> O Gartner alerta que 40% dos projetos de IA vão falhar até 2027.</div>
+            <div style="margin-bottom: 24px;">⚡ <strong>Energia é o Limite:</strong> Data centers de IA vão dobrar o consumo até 2027.</div>
+            <div style="margin-bottom: 24px;">🏛️ <strong>Reforma Tributária 2026:</strong> O gargalo real será o Cadastro de Produtos.</div>
+        </div>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">👋 Quem escreve [cite: 56]</h2>
-                            <p style="margin-bottom: 24px;"><strong>Marcelo Kelbert</strong> <br> Especialista em Processos e Automação no ecossistema Consistem. [cite: 57]</p>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">👋 Quem escreve</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;"><strong>Marcelo Kelbert</strong> <br> Especialista em Processos e Automação no ecossistema Consistem.</p>
 
-                            <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
+        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
-                            <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3;">🎯 O Próximo Passo [cite: 60]</h2>
-                            <p style="margin-bottom: 24px;">A sua coluna de "Notas em Digitação" está cheia? Responda a este e-mail com a palavra <strong>DIAGNÓSTICO</strong>. [cite: 61, 62]</p>
+        <h2 style="font-size: 22px; font-weight: 700; margin-top: 40px; margin-bottom: 16px; line-height: 1.3; text-align: left; color: #1a1a1a; padding-left: 4px;">🎯 O Próximo Passo</h2>
+        
+        <p style="margin-top: 0; margin-bottom: 24px; text-align: left; padding-left: 4px; padding-right: 4px;">Responda a este e-mail com a palavra <strong>DIAGNÓSTICO</strong>.</p>
 
-                            <div style="margin-top: 60px; padding-top: 24px; border-top: 1px solid #eaeaea; font-size: 14px; color: #4b5563;">
-                                <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab" style="max-width: 130px; height: auto; margin-bottom: 16px; display: block;">
-                                <p style="margin-bottom: 12px;"><strong>Marcelo Kelbert.</strong> Diretor @ Widelab [cite: 65]</p>
-                                <p>
-                                    <a href="https://www.linkedin.com/in/marcelo-kelbert/" target="_blank" style="color: #2563eb; text-decoration: underline;">Conecte-se no LinkedIn</a> | <a href="https://linktr.ee/widelab" target="_blank" style="color: #2563eb; text-decoration: underline;">Conheça a Widelab</a> [cite: 65]
-                                </p>
-                            </div>
+        <div style="margin-top: 60px; padding-top: 24px; border-top: 1px solid #eaeaea; font-size: 14px; color: #4b5563; text-align: left; padding-left: 4px;">
+            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab" style="max-width: 130px; height: auto; margin-bottom: 16px; display: block;">
+            <p style="margin-top: 0; margin-bottom: 12px; text-align: left;"><strong>Marcelo Kelbert.</strong> Diretor @ Widelab</p>
+        </div>
 
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+    </div>
 </body>
 </html>
