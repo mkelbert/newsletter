@@ -59,9 +59,7 @@
 
         <h2>📉 O Deep Dive: A Crise da "Cadeira Vazia"</h2>
         
-        <p>Nas últimas semanas, um dado alarmante do mercado americano (que sempre antecipa o nosso) chamou atenção: <strong><a href="https://www.roboticstomorrow.com/article/2026/01/predictions-for-2026-whats-next-for-robotics/25968" target="_blank">+1 Milhão de vagas abertas na manufatura por falta de gente qualificada</a>.</strong></p>
-        
-        <p>Não é apenas "dificuldade de contratar". É um apagão de mão de obra operacional.</p>
+        <p>Nas últimas semanas, um dado alarmante do mercado americano (que sempre antecipa o nosso) chamou atenção: <strong><a href="https://www.roboticstomorrow.com/article/2026/01/predictions-for-2026-whats-next-for-robotics/25968" target="_blank">+1 Milhão de vagas abertas na manufatura por falta de gente qualificada</a>.</strong> Não é apenas "dificuldade de contratar". É um apagão de mão de obra operacional.</p>
         
         <p>A Geração Z não quer trabalhos repetitivos. Eles preferem trabalhar <em>com</em> robôs do que <em>serem</em> os robôs.</p>
         
@@ -115,14 +113,11 @@
         
         <p>Desenvolvemos um robô (“Agente de Entrada") que monitora, valida e lança no Consistem.</p>
         
-        <p>👇 <strong>O resultado visual:</strong></p>
+        <p>👇 <strong>O resultado visual:</strong> (Imagine o cursor voando na tela. É isso que acontece).</p>
         
         <img src="https://email-editor-production.s3.amazonaws.com/images/927570/Robo240.gif" alt="Robô operando o Consistem">
-        <p style="font-size: 14px; color: #6b7280; text-align: center; margin-top: -10px;">(Imagine o cursor voando na tela. É isso que acontece).</p>
         
-        <p><strong>Tira-Teima:</strong> Acha que R$ 60k é exagero? Criei uma Calculadora de Custo de Atividade.</p>
-        <p>Coloque o salário da sua equipe e veja quanto o "Alt+Tab" custa no final do ano.</p>
-        <p>👉 <strong><a href="https://widelab-digital.lovable.app/calculadora" target="_blank">Simule o custo da sua operação aqui</a></strong></p>
+        <p><strong>Tira-Teima:</strong> Acha que R$ 60k é exagero? Criei uma Calculadora de Custo de Atividade. Coloque o salário da sua equipe e veja quanto o "Alt+Tab" custa no final do ano. 👉 <strong><a href="https://widelab-digital.lovable.app/calculadora" target="_blank">Simule o custo da sua operação aqui</a></strong></p>
 
         <hr>
 
@@ -134,8 +129,16 @@
             <br>
             <li>⚡ <strong>Energia é o Limite:</strong> Data centers de IA vão dobrar o consumo de energia até 2027 (<a href="https://www.icis.com/asian-chemical-connections/2026/02/ais-new-bottleneck-power-supply-not-chips/" target="_blank">ICIS, Fev/26</a>). Isso vai encarecer a nuvem. A saída? Otimizar processos locais para reduzir a dependência de processamento pesado e caro.</li>
             <br>
-            <li>🏛️ <strong>Reforma Tributária 2026:</strong> O mercado está focado na alíquota do IBS/CBS, mas o "trava-fábrica" será o Cadastro de Produtos. As novas regras de validação não aceitarão cadastros genéricos.<br><em>Como resolver?</em> Imagine um "Robô Auditor" rodando a noite toda. Ele pega seus 5.000 produtos, consulta um por um nas bases fiscais atualizadas e separa automaticamente o que está inválido. Em vez de sua equipe fiscal revisar tudo, ela só revisa o que o robô marcou como erro. Isso é <strong>saneamento de base automatizado</strong>.</li>
+            <li>🏛️ <strong>Reforma Tributária 2026:</strong> O mercado está focado na alíquota do IBS/CBS, mas o "trava-fábrica" será o Cadastro de Produtos. As novas regras de validação não aceitarão cadastros genéricos. Como resolver? Imagine um "Robô Auditor" rodando a noite toda. Ele pega seus 5.000 produtos, consulta um por um nas bases fiscais atualizadas e separa automaticamente o que está inválido. Em vez de sua equipe fiscal revisar tudo, ela só revisa o que o robô marcou como erro. Isso é <strong>saneamento de base automatizado</strong>.</li>
         </ul>
+
+        <hr>
+
+        <h2>👋 Quem escreve</h2>
+        
+        <p><strong>Marcelo Kelbert</strong> <br> Especialista em Processos e Automação no ecossistema Consistem.</p>
+        
+        <p>Minha missão na Widelab é garantir que a tecnologia sirva ao processo, não o contrário. <br> <em>"Dados sem ação são apenas custo de armazenamento.”</em></p>
 
         <hr>
 
@@ -150,15 +153,8 @@
         <p>Até a próxima,</p>
 
         <div class="footer">
-            <p><strong>Marcelo Kelbert</strong> <br>
-            Especialista em Processos e Automação no ecossistema Consistem.</p>
-            
-            <p><em>Minha missão na Widelab é garantir que a tecnologia sirva ao processo, não o contrário. <br>"Dados sem ação são apenas custo de armazenamento."</em></p>
-            
-            <p>Diretor @ Widelab <br>
+            <p><strong>Marcelo Kelbert.</strong> Diretor @ Widelab <br>
             <a href="https://www.linkedin.com/in/marcelo-kelbert/" target="_blank">Conecte-se no LinkedIn</a> | <a href="https://linktr.ee/widelab" target="_blank">Conheça a Widelab</a></p>
-            
-            <p style="text-align:center; margin-top:16px;"><img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab logo" style="height:40px; opacity:0.8;"></p>
         </div>
 
     </div>
