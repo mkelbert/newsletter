@@ -123,14 +123,14 @@
         
         <p style="margin-top: 0; margin-bottom: 24px; text-align: left;">Até a próxima,</p>
 
-        <div style="margin-top: 60px; padding-top: 24px; border-top: 1px solid #eaeaea; font-size: 14px; color: #4b5563; text-align: left;">
-            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab" style="max-width: 130px; height: auto; margin-bottom: 16px; display: block; border: none; outline: none; text-decoration: none;">
             
             <p style="margin-top: 0; margin-bottom: 12px; text-align: left;"><strong>Marcelo Kelbert.</strong> Diretor @ Widelab</p>
             <p style="margin-top: 0; margin-bottom: 0; text-align: left;">
                 <a href="https://www.linkedin.com/in/marcelo-kelbert/" target="_blank" style="color: #2563eb; text-decoration: underline;">Conecte-se no LinkedIn</a> | <a href="https://linktr.ee/widelab" target="_blank" style="color: #2563eb; text-decoration: underline;">Conheça a Widelab</a>
             </p>
-        </div>
+            <br>
+            <img src="https://www.widelab.com.br/wp-content/uploads/2026/02/logoWide.png" alt="Widelab" style="max-width: 130px; height: auto; margin-bottom: 16px; display: block; border: none; outline: none; text-decoration: none;">
+
 
     </div>
 </body>
